@@ -8,6 +8,7 @@
 <h2>Requirements:</h2>
 
 • https://www.autohotkey.com/
+
 • Resolution 1920x1080
 
 ---
