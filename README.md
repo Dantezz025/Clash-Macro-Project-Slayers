@@ -3,7 +3,7 @@
 [![Discord](https://img.shields.io/discord/1099468797410283540?logo=discord&logoColor=white&label=discord&color=4d3dff)](https://discord.gg/JfsMqKPhbJ)
 
 <h2>Requirements:</h2>
-1. https://www.autohotkey.com/
+• https://www.autohotkey.com/
 
 ---
 
