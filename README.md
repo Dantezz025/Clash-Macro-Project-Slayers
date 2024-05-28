@@ -3,4 +3,5 @@
 [![Discord](https://img.shields.io/discord/1099468797410283540?logo=discord&logoColor=white&label=discord&color=4d3dff)](https://discord.gg/JfsMqKPhbJ)
 
 <h1 align="center">Hotkeys:</h2>
+
 ### Insert - Activate/Deactivate Macro
