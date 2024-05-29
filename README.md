@@ -16,19 +16,19 @@
 ---
 
 <h2>How to setup ?</h2>
-1. Download Macro
+• Download Macro
 
-2. Start Cord Check.exe
+• Start Cord Check.exe
 
-3. Join Project Slayers and come to the enmu (Mugen Train Location).
+• Join Project Slayers and come to the enmu (Mugen Train Location).
 
-4. Start clashing with him. Move your mouse cursor to the top left corner and note down the coordinates (two values). Repeat same with bottom right corner. Make sure that your cursor does not go outside the square in which the letter is located. (When you point your mouse at the square, it will light up gray).
+• Start clashing with him. Move your mouse cursor to the top left corner and note down the coordinates (two values). Repeat same with bottom right corner. Make sure that your cursor does not go outside the square in which the letter is located. (When you point your mouse at the square, it will light up gray).
 
-5. Start Enmu Clash.exe
+• Start Enmu Clash.exe
 
-6. Click F2 then write coordinates in order that you wrote down before. Ex: 861 -> Ok then 722 -> Ok then 948 -> Ok then 809 -> Ok
+• Click F2 then write coordinates in order that you wrote down before. Ex: 861 -> Ok then 722 -> Ok then 948 -> Ok then 809 -> Ok
 
-7. Click F1 to start/disable macro
+• Click F1 to start/disable macro
 
 ---
 
