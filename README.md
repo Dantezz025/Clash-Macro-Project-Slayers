@@ -11,13 +11,16 @@
 
 • Resolution 1920x1080
 
+• Screen Scalling: 100%
+
 ---
 
-<h2>How to install ?</h2>
-Just download the folder and then launch Enmu Clash.exe
+<h2>How to setup ?</h2>
 
 ---
 
 <h1>Hotkeys:</h2>
 
-### Insert - Activate/Deactivate Macro
+### F1 - Activate/Deactivate Macro
+
+### F2 - Change cords
