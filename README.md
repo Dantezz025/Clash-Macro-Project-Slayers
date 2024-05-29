@@ -16,6 +16,7 @@
 ---
 
 <h2>How to setup ?</h2>
+
 • Download Macro
 
 • Start Cord Check.exe
