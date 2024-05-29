@@ -23,7 +23,7 @@
 
 • Join Project Slayers and come to the enmu (Mugen Train Location).
 
-• Start clashing with him. Move your mouse cursor to the top left corner and note down the coordinates (two values). Repeat same with bottom right corner. Make sure that your cursor does not go outside the square in which the letter is located. (When you point your mouse at the square, it will light up gray).
+• Start clashing with him. Make sure that your cursor does not go outside the square in which the letter is located. Move your mouse cursor to the top left corner and note down the coordinates (two values). Repeat same with bottom right corner. (When you point your mouse at the square, it will light up gray).
 
 • Start Enmu Clash.exe
 
