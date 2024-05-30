@@ -4,6 +4,7 @@
 
 > [!WARNING]
 > #### USE IT ON YOUR OWN RISK
+> #### Y button not working for some peoples. If it's not working for you u should click it yourself
 
 <h2>Requirements:</h2>
 
